@@ -1,3 +1,6 @@
 Lista de Compras
 ------------------
 - Pan
+Lista de Asistentes
+- Carlos
+- Mauricio
